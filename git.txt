@@ -6,3 +6,8 @@ git push
 git pull 
 
 test
+
+une fois le lien fait 
+git add
+git commit -m "commentaire"
+git push (si première fois git push -u origin master)
